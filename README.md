@@ -7,7 +7,6 @@ El objetivo de este proyecto es crear una escena en Unity utilizando las herrami
 ## Instrucciones para Ejecutar el Proyecto
 
 ### Requisitos Previos
-- Unity 2021.3 o superior.
 - Git para clonar el repositorio.
   
 Descripción del Proyecto
